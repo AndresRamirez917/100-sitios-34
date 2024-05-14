@@ -7,6 +7,10 @@
     display: block;
 }
 
+#showcase h1 {
+    margin: 1em 0;
+}
+
 .features-row {
     display: block;
 }

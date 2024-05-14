@@ -155,8 +155,12 @@ form button {
 #contact form{
    float: left;
    width: 40%;
-
 }
+
+#disclaimer h2 {
+    margin: 1em 0;
+}
+
 
 /* tutorial */
 #tutorial {
